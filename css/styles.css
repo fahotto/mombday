@@ -33,7 +33,7 @@
   background: url(../images/mama.jpg)
     center center no-repeat;
   background-size: 300px;
-   
+     
 }
 
 .card0:hover {
@@ -142,8 +142,4 @@ html {
 
 .asis {
   padding-bottom: 30px;
-}
-
-img {
-  padding-left: 20px;
 }
