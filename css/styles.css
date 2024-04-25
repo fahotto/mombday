@@ -92,9 +92,9 @@ a {
   opacity: 1;
   transition: opacity 1s;
   text-shadow: #0f0f0f;
-  text-align: center;
-  text-decoration: none;
-  
+  text-align:initial;
+  text-decoration: none;    /* Hereda el color del texto del elemento padre */
+
 }
 
 /* TITLE */
