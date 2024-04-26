@@ -38,7 +38,7 @@
 
 .card0:hover {
   background: url(../images/mama.jpg)
-    right top no-repeat;
+    center center no-repeat;
   background-size: 600px;
   margin-bottom: 100px;
 }
